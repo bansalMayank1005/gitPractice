@@ -1,2 +1,2 @@
 let x : string ="hello"
-console.console.log(x ,"test");
+console.console.log(x ,"tet");
