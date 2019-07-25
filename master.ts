@@ -1,2 +1,2 @@
 var x : number = 44;
-console.log(x);
+console.log(x)
